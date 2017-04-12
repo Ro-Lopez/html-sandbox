@@ -6,6 +6,9 @@
 		<!-- custom css -->
 		<link rel="stylesheet" href="css/style.css" type="text/css" />
 
+		<!-- custom javascript -->
+		<script type="text/javascript" src="js/scripts.js"></script>
+
 		<title>HTML SANDBOX</title>
 	</head>
 	<body>
